@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Labo4</string>
+    <string name="movie_name_string">Move</string>
+    <string name="movie_title_string">Lorem Ipsum</string>
+    <string name="rate_ex_string">Lorem Ipsum</string>
+    <string name="lorem_30_string">Lorem Ipsum</string>
+    <string name="runtime_ex_string">Lorem Ipsum</string>
+</resources>
